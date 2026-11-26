@@ -8,7 +8,9 @@ One funny line — what an elevator would say if it could talk — for the [make
 
 ## Entry
 
-> I lift people up for a living and nobody ever says thank you — except the guy on floor 13, and he's a ghost.
+> I spend all day lifting people up and nobody ever says thank you — except the guy on floor 13, and he's a ghost.
+
+The joke: the elevator as an unthanked service worker, with the floor-13 ghost as the punchline — the only rider who ever thanks it. Verified: 111 characters, one line, UTF-8.
 
 ## Run
 

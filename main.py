@@ -7,7 +7,9 @@ Pure stdlib, deterministic.
 
 import os
 
-LINE = "I lift people up for a living and nobody ever says thank you \u2014 except the guy on floor 13, and he's a ghost."
+LINE = "I spend all day lifting people up and nobody ever says thank you \u2014 except the guy on floor 13, and he's a ghost."
+# The joke: the elevator as an unthanked service worker, with the
+# floor-13 ghost as the punchline — the only rider who ever thanks it.
 
 assert "\n" not in LINE, "entry must be a single line"
 assert 1 <= len(LINE) <= 120, f"entry length {len(LINE)} out of range"
